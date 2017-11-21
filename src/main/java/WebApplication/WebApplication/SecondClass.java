@@ -13,4 +13,5 @@ public class SecondClass {
 	public SecondClass() {
 
 	}
+
 }
