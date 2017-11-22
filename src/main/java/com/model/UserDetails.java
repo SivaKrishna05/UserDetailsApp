@@ -42,10 +42,10 @@ public class UserDetails {
 		this.gender = gender;
 	}
 
-/**
- * getter method of first name.
- * @return firstname
- */
+	/**
+	 * getter method of first name.
+	 * @return firstname
+	 */
 	public String getFirstName() {
 		return firstName;
 
